@@ -1,0 +1,23 @@
+name: Deploy to Github Pages
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    name: Deploy Application
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: instalacion de dependencias
+        run: npm install
+      - name: compilar proyecto
+        run: npm run build
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@master
+        env:
+          REPO: self
+          BRANCH: gh-pages
+          FOLDER: dist
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

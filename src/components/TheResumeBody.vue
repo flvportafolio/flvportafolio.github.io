@@ -93,6 +93,10 @@
             <div class="item-content">
               <p>
                 Sitio Web Informativo para mostrar CV y portafolio digital.
+                se tomo como base una plantilla existente diseñada por
+                <a class="theme-link" href="http://themes.3rdwavemedia.com" target="_blank">
+                  Xiaoying Riley
+                </a>
               </p>
             </div>
           </div>

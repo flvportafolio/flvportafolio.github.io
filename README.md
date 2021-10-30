@@ -1,4 +1,5 @@
 # flvportafolio
+[![Deploy to Github Pages](https://github.com/flvportafolio/flvportafolio.github.io/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/flvportafolio/flvportafolio.github.io/actions/workflows/deploy.yml)
 
 ## Author & License
 

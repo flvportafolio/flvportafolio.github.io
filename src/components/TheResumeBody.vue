@@ -82,6 +82,39 @@
           <div class="item mb-3">
             <div class="item-heading row align-items-center mb-2">
               <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">
+                <a class="theme-link" href="https://flvportafolio.github.io/BuilderCV/" target="_blank">
+                  BuilderCV
+                </a>
+              </h4>
+              <div
+                class="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end"
+              >
+                Personal
+              </div>
+            </div>
+            <div class="item-content">
+              <p>
+                Sitio Web para generar Curriculum Vitae en base a plantilla y el llenado
+                de un formulario, contiene tambien un visor PDF para presualizar los resultados.
+              </p>
+            </div>
+            <div class="item-content">
+              <p>
+                <b style="vertical-align: top;">
+                  Stack:
+                </b>
+                <i class="fab fa-git-alt fa-2x mx-2 git-color" title="Git"></i>
+                <i class="fab fa-html5 fa-2x mx-2 html-color" title="Html"></i>
+                <i class="fab fa-css3-alt fa-2x mx-2 css-color" title="Css"></i>
+                <i class="fab fa-bootstrap fa-2x mx-2 bootstrap-color" title="Bootstrap"></i>
+                <i class="fab fa-js-square fa-2x mx-2 js-color" title="JavaScript"></i>
+                <i class="fab fa-vuejs fa-2x mx-2 vue-color" title="Vue"></i>
+              </p>
+            </div>
+          </div>
+          <div class="item mb-3">
+            <div class="item-heading row align-items-center mb-2">
+              <h4 class="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">
                 flvportafolio.github.io
               </h4>
               <div

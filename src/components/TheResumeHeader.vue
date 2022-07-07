@@ -3,7 +3,7 @@
     <div class="row align-items-center">
       <div class="resume-title col-12 col-md-6 col-lg-8 col-xl-9">
         <h2 class="resume-name mb-0 text-uppercase">Fabio Loayza Vargas</h2>
-        <div class="resume-tagline mb-3 mb-md-0">Pasante de Sistemas</div>
+        <div class="resume-tagline mb-3 mb-md-0">Desarrollador Web</div>
       </div>
 
       <div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">

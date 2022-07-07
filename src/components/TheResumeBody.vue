@@ -77,7 +77,7 @@
             </div>
           </div> -->
         </section>
-        <section class="project-section py-3">
+        <section class="project-section py-3" v-if="false">
           <h3 class="text-uppercase resume-section-heading mb-4">PROYECTOS PERSONALES</h3>
           <div class="item mb-3">
             <div class="item-heading row align-items-center mb-2">
@@ -141,13 +141,13 @@
           <div class="item">
             <h4 class="item-title">Técnicas</h4>
             <ul class="list-unstyled resume-skills-list">
-              <li class="mb-2">HTML/CSS/JavaScript</li>
-              <li class="mb-2">Vue/Vuex/Vue-Router</li>
+              <li class="mb-2">HTML / CSS / JavaScript</li>
+              <li class="mb-2">Vue / Vuex / Pinia</li>
               <li class="mb-2">PHP (Laravel)<li>
               <li class="mb-2">SQL (MySQL)</li>
               <li class="mb-2">GIT (GitHub, GitLab)</li>
-              <li class="mb-2">C# / Visual Studio</li>
-              <li class="mb-2">Bootstrap/BootstrapVue</li>
+              <li class="mb-2">C# / ASP.NET</li>
+              <li class="mb-2">Bootstrap / BootstrapVue</li>
               <li>Error Tracking (Sentry.io)</li>
             </ul>
           </div><!--//item-->
@@ -167,7 +167,7 @@
             <li class="mb-3">
               <div class="resume-degree font-weight-bold">Ingeniería de Sistemas</div>
               <div class="resume-degree-org text-muted">Universidad Privada Domingo Savio</div>
-              <div class="resume-degree-time text-muted">Estudiante de 9no Semestre</div>
+              <div class="resume-degree-time text-muted">2015 - 2022</div>
             </li>
             <li>
               <div class="resume-degree font-weight-bold">Bachiller en Humanidades</div>

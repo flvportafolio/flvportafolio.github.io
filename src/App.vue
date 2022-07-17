@@ -8,7 +8,7 @@
           <ResumeBody />
         </article>
       </div>
-      <Footer />
+      <the-footer />
     </div>
   </div>
 </template>
@@ -16,14 +16,14 @@
 <script>
 import ResumeHeader from './components/TheResumeHeader.vue';
 import ResumeBody from './components/TheResumeBody.vue';
-import Footer from './components/TheFooter.vue';
+import TheFooter from './components/TheFooter.vue';
 
 export default {
   name: 'App',
   components: {
     ResumeHeader,
     ResumeBody,
-    Footer,
+    TheFooter,
   },
 };
 </script>
